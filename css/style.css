@@ -1,0 +1,57 @@
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    text-align: center;
+    
+    background: linear-gradient(white, pink) ;
+    background-attachment: fixed;
+}
+
+h1{
+    color: red;
+
+    font-size: 6rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr{
+    width: 50%;
+    height: 2rem;
+    background: pink;
+
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+p{
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+
+    font-size: 1.6rem;
+}
+
+.wrapper{
+    display: flex;
+
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    max-width: 50%;
+}
+
+marquee{
+    width: 50%;
+    font-size: 6rem;
+    font-weight: bold;
+    color: white;
+
+}
+
+video{
+    max-width: 40rem;
+}
